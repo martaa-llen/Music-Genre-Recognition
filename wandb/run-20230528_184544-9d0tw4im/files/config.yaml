@@ -1,0 +1,56 @@
+wandb_version: 1
+
+n_classes:
+  desc: null
+  value: 8
+batch_size:
+  desc: null
+  value: 20
+lambda_l2:
+  desc: null
+  value: 1.0e-05
+learning_rate:
+  desc: null
+  value: 0.0001
+architecture:
+  desc: null
+  value: SimpleCRNN
+epochs:
+  desc: null
+  value: 25
+init:
+  desc: null
+  value: true
+filters:
+  desc: null
+  value:
+  - 64
+  - 32
+_wandb:
+  desc: null
+  value:
+    python_version: 3.9.16
+    cli_version: 0.15.0
+    framework: torch
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1685299552.268623
+    t:
+      1:
+      - 1
+      - 53
+      - 55
+      2:
+      - 1
+      - 53
+      - 55
+      3:
+      - 1
+      - 2
+      - 16
+      - 23
+      4: 3.9.16
+      5: 0.15.0
+      8:
+      - 1
+      - 5
