@@ -1,0 +1,42 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-05-27T18:41:58.654752",
+    "startedAt": "2023-05-27T18:41:57.676873",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\vilar\\OneDrive\\Escriptori\\Artificial Intelligence II\\II Semester\\Neural Networks & Deep Learning\\Group_project\\dlnn-project_ia-group_8\\.git\\import wandb.py",
+    "codePath": ".git\\import wandb.py",
+    "git": {
+        "remote": "https://github.com/DCC-UAB/dlnn-project_ia-group_8.git",
+        "commit": "d12dacaf1f654e2f04bd01eafc94f63bf99e6bff"
+    },
+    "email": "vilardellcastanelaia@gmail.com",
+    "root": "C:/Users/vilar/OneDrive/Escriptori/Artificial Intelligence II/II Semester/Neural Networks & Deep Learning/Group_project/dlnn-project_ia-group_8",
+    "host": "Pc_Laia",
+    "username": "vilar",
+    "executable": "C:\\Users\\vilar\\Downloads\\Anaconda\\envs\\musicproject_env\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1801.0,
+        "min": 0.0,
+        "max": 1801.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1801.0,
+            "min": 0.0,
+            "max": 1801.0
+        }
+    ],
+    "disk": {
+        "total": 476.02733993530273,
+        "used": 148.81896591186523
+    },
+    "memory": {
+        "total": 11.32601547241211
+    }
+}
