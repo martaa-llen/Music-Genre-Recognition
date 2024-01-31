@@ -1,0 +1,74 @@
+{
+    "os": "Linux-5.15.0-1038-azure-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-05-29T18:30:05.539538",
+    "startedAt": "2023-05-29T18:30:00.830913",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/DCC-UAB/dlnn-project_ia-group_8.git",
+        "commit": "6505bebd331f0a783cf639f2b779439a9c4b0182"
+    },
+    "email": "1632221@uab.cat",
+    "root": "/home/xnmaster/dlnn-project_ia-group_8",
+    "host": "ML-RefVm-536361",
+    "username": "xnmaster",
+    "executable": "/anaconda/envs/pytorch/bin/python3",
+    "cpu_count": 6,
+    "cpu_count_logical": 6,
+    "cpu_freq": {
+        "current": 2596.993,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2596.993,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2596.993,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2596.993,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2596.993,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2596.993,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2596.993,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 145.1909637451172,
+        "used": 107.86262893676758
+    },
+    "gpu": "Tesla M60",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla M60",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 54.90073013305664
+    }
+}
